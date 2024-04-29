@@ -9,6 +9,8 @@ GItHub will allow the user to create their own resporitory and automate various 
 ![cat_eating](https://github.com/SIPHESIHLE1705/Assignment-2/assets/162302326/f93afd46-7c9b-4a5c-bf8d-b61d2efda2cd)
 
 www.youtube.com/@SiphesihleMofokeng-km6it
+![cat_playing](https://github.com/SIPHESIHLE1705/Assignment-2/assets/162302326/4a7da9e4-510f-477b-a1d3-0e6217650ac9)
+
 
 
 
